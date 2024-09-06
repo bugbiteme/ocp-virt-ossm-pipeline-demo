@@ -1,5 +1,8 @@
 # ocp-virt-win-iis-ossm-pipeline-demo
 
+## TODO:
+- Pipeline build and push image
+- GitOps Deployment using Kusomize
 
 ## Simple demo showing VM and containers in a Service Mesh
 
